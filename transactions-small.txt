@@ -1,0 +1,10 @@
+buy copper wires 240 @ $1
+buy metal plates 80 @ $1
+buy plastic bars 8 @ $20
+buy metal plates 40 @ $1
+buy plastic bars 20 @ $20
+sell advanced circuits 10 @ $250
+sell electronic circuits 2 @ $5
+sell electronic circuits 1 @ $5
+buy plastic bars 2 @ $20
+buy metal plates 50 @ $1
