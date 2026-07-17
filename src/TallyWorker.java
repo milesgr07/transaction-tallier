@@ -1,4 +1,3 @@
-package src;
 
 /**
  * A worker that repeatedly pulls transactions from a shared TransactionTallier
